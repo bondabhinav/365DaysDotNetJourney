@@ -1,2 +1,7 @@
-﻿Console.WriteLine("My Journey to Senior .NET AI Engineer Starts Today");
+﻿using LearningDotNetDay1;
+
+DotNetRuntimeDemo demo = new DotNetRuntimeDemo();
+
+demo.ShowTypes();
+
 Console.ReadLine();
