@@ -1,7 +1,7 @@
 ﻿using LearningDotNetDay1;
 
-DotNetRuntimeDemo demo = new DotNetRuntimeDemo();
+ReferenceTypeDemo demo = new ReferenceTypeDemo();
 
-demo.ShowTypes();
+demo.ShowReferenceTypeBehavior();
 
 Console.ReadLine();
